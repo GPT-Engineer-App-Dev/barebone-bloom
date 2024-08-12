@@ -2,9 +2,9 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-background border-t mt-auto">
+    <footer className="bg-blue-500 text-white mt-auto">
       <div className="container mx-auto px-4 py-4 text-center">
-        <p className="text-sm text-muted-foreground">© 2024 My App. All rights reserved.</p>
+        <p className="text-sm">© 2024 My App. All rights reserved.</p>
       </div>
     </footer>
   );
