@@ -4,7 +4,7 @@ import { MoonIcon, SunIcon } from "lucide-react"
 
 const Header = () => {
   return (
-    <header className="bg-purple-700 text-white">
+    <header className="bg-emerald-600 text-white">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <h1 className="text-2xl font-bold">My App</h1>
         <Button variant="ghost" size="icon" className="text-white hover:text-purple-200">
